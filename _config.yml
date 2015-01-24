@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /weblog/:year/:title.html
+relative_permalinks: true
+
+# Setup
+title:               Stephen Mizell
+tagline:             'I can never come up with what to say here'
+description:         'I am a software engineer for <a href="http://apiary.io">Apiary</a>. This is my personal website.'
+url:                 http://smizell.com
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Stephen Mizell
+  url:               https://twitter.com/Stephen_Mizell
+  email:             smizell@gmail.com
+
+# Custom vars
+version:             1.0.0
