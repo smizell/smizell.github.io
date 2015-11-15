@@ -21,6 +21,7 @@ installation CD. Snail mail was much faster than our dial-up.
 [TextMate](http://manual.macromates.com/en/) was not far behind, but was
 prophetically named "The Missing Editor." It was rarely updated, and we were
 all waiting around for the next big release of it, which I finally gave up on.
+If anyone sees this missing editor, please notify the authorities.
 
 I took a job at a local university and started working out of Linux primarily. I used
 [Bluefish](http://bluefish.openoffice.nl/index.html) as my editor of choice
