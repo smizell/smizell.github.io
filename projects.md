@@ -7,6 +7,14 @@ The projects that I spend a majority of my time on revolve around the area of RE
 
 ## Projects
 
+### [Refract](https://github.com/refractproject/refract-spec)
+
+Refract is a recursive data structure for expressing complex structures,
+relationships, and metadata.
+
+We have also built [Minim](https://github.com/refractproject/minim) to provide
+an interface to Refract structures.
+
 ### [Halpert](https://github.com/smizell/halpert)
 
 Halpert is a library for representing and interfacing with hypermedia formats. It provides a way for converting to and from these formats, along with methods for filtering and parsing through them in a generic way.
