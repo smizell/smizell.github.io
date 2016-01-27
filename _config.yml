@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Stephen Mizell
-tagline:             'I can never come up with what to say here'
+tagline:             'Watching the world go by too quickly'
 description:         'I am a software engineer for <a href="http://apiary.io">Apiary</a>. This is my personal website.'
 url:                 http://smizell.com
 baseurl:             /
