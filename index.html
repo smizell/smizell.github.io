@@ -3,35 +3,51 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | remove: '.html' }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<p>
+  Hello, my name is Stephen and here are some things I've written. I love technology and spend a lot of time <a href="/projects">tinkering</a>. I like to come up with simple solutions to complex problems, though I sometimes come up with complex solutions to simple problems (please don't tell anyone that).
+</p>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<hr>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+<h1>Hypermedia Posts</h1>
+<ul>
+  <li>
+    <a href="/weblog/2014/solving-fizzbuzz-with-hypermedia">Solving FizzBuzz with Hypermedia</a>
+  </li>
+  <li>
+    <a href="/weblog/2014/html-hypermedia-api-decoupled-ui">HTML, Hypermedia API, and a Decoupled UI</a>
+  </li>
+  <li>
+    <a href="/weblog/2013/restful-static-site">RESTful Static Site</a>
+  </li>
+  <li>
+    <a href="/weblog/2013/rails-isn-t-really-restful">Rails Isn't Really RESTful</a>
+  </li>
+  <li>
+    <a href="/weblog/2014/coding-the-hypermedia-elements-message">Coding the Hypermedia Elements of a Message</a>
+  </li>
+  <li>
+    <a href="/weblog/2014/converting-between-hypermedia-types">Converting Between Hypermedia Types</a>
+  </li>
+</ul>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<hr>
+
+<h1>Posts on Media Types</h1>
+<ul>
+  <li>
+    <a href="/weblog/2014/verbose-hypermedia-format">The Verbose Hypermedia Format</a>
+  </li>
+  <li>
+    <a href="/weblog/2014/hyperextend-extending-hypermedia">Extending Hypermedia with Hyperextend</a>
+  </li>
+</ul>
+
+<hr>
+
+<h1>For Fun</h1>
+<ul>
+  <li>
+    <a href="/weblog/2015/hello-from-vim">Hello from Vim</a>
+  </li>
+</ul>

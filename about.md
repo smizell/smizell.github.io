@@ -17,8 +17,6 @@ I've accumulated some skills down through the years in regards to my career. I s
 
 ## Interests
 
-I love spending time with family. As I write this, I'm watching my little girl stretch and poop as she wakes from a nap. It really doesn't get much better than this.
-
-I enjoy reading, though I don't do enough of it. I love to read old theology books. I like to play music on our out-of-tune piano. I'm also slowly starting to enjoy running again, though it's still painful.
+I love spending time with my family. I enjoy reading, though I don't do enough of it. I like to play music on our out-of-tune piano. I'm also slowly starting to enjoy running again, though it's still painful.
 
 My wife and I enjoy watching good TV shows. We have spent entirely way too much time enjoying shows, but there are just so many good ones out there.
