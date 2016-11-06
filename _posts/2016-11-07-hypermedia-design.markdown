@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thinking Through Hypermedia Design"
-date: "2016-11-01 22:36:09 -0600"
+date: "2016-11-07 22:36:09 -0600"
 ---
 
 In designing hypermedia APIs, I usually have to use a combination of description
