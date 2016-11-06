@@ -389,8 +389,9 @@ affordances, behavior, and workflows in a way that helps think through the
 design and drive tests and implementation.
 
 And when it comes down it, I feel designing a hypermedia API is more difficult
-than designing one that focuses on resource and HTTP first. This is because the
-most popular tooling just isn't geared toward it, and because hypermedia design
-requires extra thought to surface logic that drives application state. My hope
-here is that we can start considering improvements to our tooling while making
-it simpler to define application logic through hypermedia.
+for newcomers than designing one that focuses on resource and HTTP first. To me,
+this is because the most popular tooling just isn't geared toward it, and
+because hypermedia design requires extra thought to surface logic that drives
+application state. My hope is that we can start considering improvements to
+our tooling while making it simpler to define application logic through
+hypermedia.
