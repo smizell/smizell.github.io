@@ -18,10 +18,10 @@ possible in API-specific tooling.
 I personally like to the think through the steps below when I'm designing a
 hypermedia API, and I usually jump around between them throughout the process.
 
-1. Define scenarios for interacting with the API
-1. Capture workflows that describe steps users may take
-1. Define semantics around the API
-1. Define basic implementation details
+* Define scenarios for interacting with the API
+* Capture workflows that describe steps users may take
+* Define semantics around the API
+* Define basic implementation details
 
 It's most important for me to think apart from HTTP methods, URLs, schemas, and
 other implementation details, as they may cloud my thinking. Once I have a clear
