@@ -43,19 +43,16 @@ definitions: {}
 protocols: {}
 ```
 
-As we go through this, let's design an example API that allows for managing
-todos. We're going to keep it very simple for the sake of brevity.
-
-**Interactions** include scenarios in the API, and capture snapshots of what the
-state of resources look like.
-
-**Workflows** are paths through the API that a user may take to accomplish some
-specific work.
-
-**Definitions** define various semantics for the API.
-
-**Protocols** is where we may the application logic and semantics to existing
+* **Interactions** include scenarios in the API, and capture snapshots of what
+the state of resources look like.
+* **Workflows** are paths through the API that a user may take to accomplish
+some specific work.
+* **Definitions** define various semantics for the API.
+* **Protocols** is where we may the application logic and semantics to existing
 application protocols like HTTP.
+
+As we think through these areas, let's design an example API that allows for
+managing todos. We're going to keep it very simple for the sake of brevity.
 
 ## What Are the Interactions of the API?
 
