@@ -242,6 +242,7 @@ interactions:
               completed: false
         then:
           links:
+            - self
             - collection
           status: success
 ```
