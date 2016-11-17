@@ -27,12 +27,12 @@ It's most important for me to think apart from HTTP methods, URLs, schemas, and
 other implementation details, as they may cloud my thinking. Once I have a clear
 picture of the API, I will then start plugging it into various protocols like
 HTTP, but not until the end of this process. You may think about things in a
-different order than I have here, and that's OK. There is no right or wrong way
-I feel.
+different order than I have here, and that's OK. In my opinion, there is no
+right or wrong approach to this.
 
 ## The Document Structure
 
-Let's start out by laying out a structure in YAML for our made-up format that
+Let's start by laying out a structure in YAML for our made-up format that
 lines up with the thought process I've outlined above. We'll then walk through
 each step and fill in the important details along the way.
 
@@ -48,8 +48,8 @@ the state of resources look like.
 * **Workflows** are paths through the API that a user may take to accomplish
 some specific work.
 * **Definitions** define various semantics for the API.
-* **Protocols** is where we may the application logic and semantics to existing
-application protocols like HTTP.
+* **Protocols** is the section where we map the application logic and semantics
+to existing application protocols like HTTP.
 
 As we think through these areas, let's design an example API that allows for
 managing todos. We're going to keep it very simple for the sake of brevity.
@@ -399,7 +399,7 @@ of [API Blueprint](https://apiblueprint.org/), [ALPS](http://alps.io/), and
 Cucumber. There are influences here as well
 from
 [Resource Blueprint](https://github.com/resource-blueprint/resource-blueprint).
-I'd love tools evolve to walk designers through capturing affordances, behavior,
+I'd love to see tools that walk API designers through capturing affordances, behavior,
 and workflows in a way that helps think through the design and drive tests and
 implementation.
 
