@@ -1,17 +1,21 @@
 # Dependencies
-markdown:            redcarpet
-highlighter:         pygments
+# markdown:            redcarpet
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+highlighter: pygments
+gems: [jekyll-paginate]
 
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           /weblog/:year/:title.html
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
 title:               Stephen Mizell
 tagline:             'Watching the world go by too quickly'
-description:         'I am a software engineer for <a href="http://apiary.io">Apiary</a>. This is my personal website.'
+description:         'I am Stephen Mizell, and this is my personal website.'
 url:                 http://smizell.com
 baseurl:             /
 paginate:            5
