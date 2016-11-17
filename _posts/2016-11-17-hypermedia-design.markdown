@@ -87,7 +87,7 @@ collection of todos.
 interactions:
   viewTodoCollection:
     description: |
-      The `item` affordance is only available when there are
+      The `item` link is only available when there are
       items found in the lookup.
     scenarios:
       noTodos:
@@ -190,7 +190,7 @@ interactions:
   viewTodoItem:
     description: |
       Once an item has been completed, the `mark-complete`
-      affordance is no longer available.
+      action is no longer available.
     scenarios:
       incompleteTodo:
         when:
@@ -399,9 +399,9 @@ of [API Blueprint](https://apiblueprint.org/), [ALPS](http://alps.io/), and
 Cucumber. There are influences here as well
 from
 [Resource Blueprint](https://github.com/resource-blueprint/resource-blueprint).
-I'd love to see formats evolve to walk designers through capturing affordances,
-behavior, and workflows in a way that helps think through the design and drive
-tests and implementation.
+I'd love tools evolve to walk designers through capturing affordances, behavior,
+and workflows in a way that helps think through the design and drive tests and
+implementation.
 
 When it comes down it, I feel designing a hypermedia API is more difficult for
 newcomers than designing one that focuses on resource and HTTP first. To me,
