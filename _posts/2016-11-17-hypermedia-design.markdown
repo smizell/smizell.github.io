@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thinking Through Hypermedia Design"
+title: "Thinking Through Hypermedia API Design"
 date: "2016-11-17 22:36:09 -0600"
 ---
 
