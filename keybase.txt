@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/smizell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://smizell.com
+  * I am smizell (https://keybase.io/smizell) on keybase.
+  * I have a public key ASA6Hq_DyR581YFdOxPy9eU9ZS1gSHvaEZ8kW8u0DXp9WAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01203a1eafc3c91e7cd5815d3b13f2f5e53d652d60487bda119f245bcbb40d7a7d580a",
+            "host": "keybase.io",
+            "kid": "01203a1eafc3c91e7cd5815d3b13f2f5e53d652d60487bda119f245bcbb40d7a7d580a",
+            "uid": "dc729f8033dbc8a9a6f0123069e5ba19",
+            "username": "smizell"
+        },
+        "service": {
+            "hostname": "smizell.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1479699378,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1479699314,
+        "hash": "21956bb47f5657cecb8fcd2d5717e4dc5f1aadd57da64b8b1e881d69afec29028560fe76eb450efb7bfe12c726d5eae38b1146b59bfe4d5e1b1fdaea8ce534f3",
+        "seqno": 727369
+    },
+    "prev": "e500f9f79624dd0e6ce1c4c85a42d5f28c210e73b23e2c013bee9d5d52e80c53",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOh6vw8kefNWBXTsT8vXlPWUtYEh72hGfJFvLtA16fVgKp3BheWxvYWTFAvJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwM2ExZWFmYzNjOTFlN2NkNTgxNWQzYjEzZjJmNWU1M2Q2NTJkNjA0ODdiZGExMTlmMjQ1YmNiYjQwZDdhN2Q1ODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwM2ExZWFmYzNjOTFlN2NkNTgxNWQzYjEzZjJmNWU1M2Q2NTJkNjA0ODdiZGExMTlmMjQ1YmNiYjQwZDdhN2Q1ODBhIiwidWlkIjoiZGM3MjlmODAzM2RiYzhhOWE2ZjAxMjMwNjllNWJhMTkiLCJ1c2VybmFtZSI6InNtaXplbGwifSwic2VydmljZSI6eyJob3N0bmFtZSI6InNtaXplbGwuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0Nzk2OTkzNzgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3OTY5OTMxNCwiaGFzaCI6IjIxOTU2YmI0N2Y1NjU3Y2VjYjhmY2QyZDU3MTdlNGRjNWYxYWFkZDU3ZGE2NGI4YjFlODgxZDY5YWZlYzI5MDI4NTYwZmU3NmViNDUwZWZiN2JmZTEyYzcyNmQ1ZWFlMzhiMTE0NmI1OWJmZTRkNWUxYjFmZGFlYThjZTUzNGYzIiwic2Vxbm8iOjcyNzM2OX0sInByZXYiOiJlNTAwZjlmNzk2MjRkZDBlNmNlMWM0Yzg1YTQyZDVmMjhjMjEwZTczYjIzZTJjMDEzYmVlOWQ1ZDUyZTgwYzUzIiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAw9IReI9+3DZb829SANuXDCSSocXwKt72oEh6bFT1xo3G2h9MAo74QJnMOdrOffmW/Ns92XhzSBoyuErRuDISAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHTVHxVCUfwygCTJAXD3tXFofcbuCkv/hpBdjoJGAe8Uo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/smizell
+
+==================================================================
