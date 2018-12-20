@@ -1,0 +1,22 @@
+{
+  "name": "Stephen Mizell",
+  "handle": "smizell",
+  "items": [
+    {
+      "label": "Work",
+      "content": "I work on some things."
+    },
+    {
+      "label": "Twitter",
+      "content": "https://twitter.com/StephenMizell"
+    },
+    {
+      "label": "GitHub",
+      "content": "https://github.com/smizell"
+    },
+    {
+      "label": "Web",
+      "content": "https://smizell.com"
+    }
+  ]
+}
