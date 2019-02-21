@@ -3,7 +3,7 @@
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-highlighter: pygments
+highlighter: rouge
 gems: [jekyll-paginate]
 
 # Permalinks
